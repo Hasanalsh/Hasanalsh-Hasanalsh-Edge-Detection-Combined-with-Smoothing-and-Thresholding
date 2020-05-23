@@ -1,5 +1,4 @@
-# Edge Detection Combined with Smoothing and Thresholding 
-# Proj10-01
+# Edge Detection Combined with Smoothing and Thresholding Proj10-01
 ## Overview 
 This project is about edge detection using Sobel operator combined with smoothing such as Avverging and Gaussian filters and thresholding. The project has four main goals which are:
  - Implementation of different types of smoothing filters such as Averaging and Gaussian filters.
