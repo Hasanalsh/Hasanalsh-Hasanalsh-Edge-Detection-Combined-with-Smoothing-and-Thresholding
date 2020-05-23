@@ -4,7 +4,7 @@ This project is about edge detection using Sobel operator combined with smoothin
  - Implementation of different types of smoothing filters such as Averaging and Gaussian filters.
  - Implementation of edge detection using the Sobel operator method.
  - Implementation of different types of thresholding.
- - Finally, detecting a specific required target in the image and isolate it. In this case, the large blood vessel in the centre o the image is the target that needs to be isolated.
+ - Finally, detecting a specific required target in the image and isolate it. In this case, the large blood vessel in the centre of the image is the target that needs to be isolated.
  
  ## Reqiured Packages
  - pip install opencv-python.
